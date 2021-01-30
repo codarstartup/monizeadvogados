@@ -1,0 +1,161 @@
+{
+    "Header": {
+
+        "title": "Dedicação e trabalho, porque você merece!",
+        "paragraph": "Somos um escritório familiar, com vasta experiência em direito cível, empresarial, trabalhista e previdenciário.."
+
+    },
+    "About": {
+        "paragraph": "----------",
+        "Why": [
+            "-----"
+            
+        ],
+        "Why2": [
+            "------"
+            
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-house",
+            "name": "Imobiliário",
+            "text":  "- Ações de Rescisão de contrato de venda e compra.",
+            "text1": "- Ações indenizatórias por atraso na entrega do imóvel.",
+            "text2": "- Usucapião.",
+            "text3": "- Despejo e Cobrança de aluguel.",
+            "text4": "- Ações Possessórias.",
+            "text5": "- Desenvolvimento de projetos, parcelamento e desenvolvimento do solo.",
+            "text6": "- Incorporação Imobiliária.",
+            "text7": "- Assessória Técnico – Jurídica na aquisição de imóveis.",
+            "text8": "- Elaboração de minutas de contrato.",
+            "text9": "- Regularizações em Geral."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Criminal",
+            "text":  "- Ações de Rescisão de contrato de venda e compra.",
+            "text1": "- Ações indenizatórias por atraso na entrega do imóvel.",
+            "text2": "- Usucapião.",
+            "text3": "- Despejo e Cobrança de aluguel.",
+            "text4": "- Ações Possessórias.",
+            "text5": "- Desenvolvimento de projetos, parcelamento e desenvolvimento do solo.",
+            "text6": "- Incorporação Imobiliária.",
+            "text7": "- Assessória Técnico – Jurídica na aquisição de imóveis.",
+            "text8": "- Elaboração de minutas de contrato.",
+            "text9": "- Regularizações em Geral."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Família",
+            "text":  "- Ações de Rescisão de contrato de venda e compra.",
+            "text1": "- Ações indenizatórias por atraso na entrega do imóvel.",
+            "text2": "- Usucapião.",
+            "text3": "- Despejo e Cobrança de aluguel.",
+            "text4": "- Ações Possessórias.",
+            "text5": "- Desenvolvimento de projetos, parcelamento e desenvolvimento do solo.",
+            "text6": "- Incorporação Imobiliária.",
+            "text7": "- Assessória Técnico – Jurídica na aquisição de imóveis.",
+            "text8": "- Elaboração de minutas de contrato.",
+            "text9": "- Regularizações em Geral."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "São Paulo-SP",
+        "phone": "(11) 98310-6192",
+        "email": "monise.adv@outlook.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-group",
+            "title": "Advogados Experientes",
+            "text": "Contamos com um seleto grupo de profissionais capacitados para trazer as melhores soluções jurídicas para os nossos clientes"
+        },
+        
+        {
+            "icon": "fa fa-comments-o",
+            "title": "Comunicação direta",
+            "text": "Contamos com diversos canais de comunicação, efetuando assim uma comunicação clara e efetiva trazendo satisfação aos nossos clientes "
+        },
+        {
+            "icon": "fa fa-info",
+            "title": "Transparência Sempre",
+            "text": "Nosso diferencial é a transparência e consequentemente a confiança e a credibilidade fazem com que os nossos clientes sejam conquistados de forma rápida e natural."
+        },
+        {
+            "icon": "fa fa-language",
+            "title": "Ética e moral",
+            "text": "Agimos sempre de acordo com a ética e com a moral. Nesse sentido, buscamos o moralmente correto para nosso clientes."
+        }
+    ]
+}
